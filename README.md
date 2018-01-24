@@ -1,4 +1,4 @@
-# My Awesome API
+# What is Panacea?
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+Details to follow...
 
